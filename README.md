@@ -1,1 +1,2 @@
-# Courier-Management-System
+This project is related to Courier-Management-System, developed and implemented using MySQL as backend and HTML, CSS as frontend, and PHP for connection. The project serves as a robust learning experience, allowing for the practical application of theoretical knowledge in
+database management systems, software development, and system architecture.
